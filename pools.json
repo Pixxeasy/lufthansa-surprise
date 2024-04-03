@@ -1,0 +1,75 @@
+[
+        {
+            "poolIdentifier": "fra_NEW",
+            "poolName": "Einfach sehenswert"
+        },
+        {
+            "poolIdentifier": "fra_balticandpolish",
+            "poolName": "Überraschend anders"
+        },
+        {
+            "poolIdentifier": "FRA_CULTURE",
+            "poolName": "Kunst und Kultur"
+        },
+        {
+            "poolIdentifier": "FRA_NATURE",
+            "poolName": "Draußen erleben"
+        },
+        {
+            "poolIdentifier": "FRA_SUN",
+            "poolName": "Sonnenziele"
+        },
+        {
+            "poolIdentifier": "FRA_PARTY",
+            "poolName": "Party und Nightlife"
+        },
+        {
+            "poolIdentifier": "FRA_ROMANCE",
+            "poolName": "Ganz romantisch"
+        },
+        {
+            "poolIdentifier": "FRA_SHOPPING",
+            "poolName": "Shoppen ohne Ende"
+        },
+        {
+            "poolIdentifier": "FRA_CAPITAL",
+            "poolName": "Abenteuer Stadt"
+        },
+    
+        {
+            "poolIdentifier": "muc_PUSH",
+            "poolName": "Einfach sehenswert"
+        },
+        {
+            "poolIdentifier": "MUC_SUN",
+            "poolName": "Sonnenziele"
+        },
+        {
+            "poolIdentifier": "muc_balkan",
+            "poolName": "Überraschend anders"
+        },
+        {
+            "poolIdentifier": "MUC_CULTURE",
+            "poolName": "Kunst und Kultur"
+        },
+        {
+            "poolIdentifier": "MUC_NATURE",
+            "poolName": "Draußen erleben"
+        },
+        {
+            "poolIdentifier": "MUC_PARTY",
+            "poolName": "Party und Nightlife"
+        },
+        {
+            "poolIdentifier": "MUC_ROMANCE",
+            "poolName": "Ganz romantisch"
+        },
+        {
+            "poolIdentifier": "MUC_SHOPPING",
+            "poolName": "Shoppen ohne Ende"
+        },
+        {
+            "poolIdentifier": "MUC_CAPITAL",
+            "poolName": "Abenteuer Stadt"
+        }
+]

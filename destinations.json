@@ -1,0 +1,552 @@
+[
+    {
+        "name": "Alicante",
+        "country": "Spanien",
+        "IATA": "ALC"
+    },
+    {
+        "name": "Amsterdam",
+        "country": "Niederlande",
+        "IATA": "AMS"
+    },
+    {
+        "name": "Ancona",
+        "country": "Italien",
+        "IATA": "AOI"
+    },
+    {
+        "name": "Athen",
+        "country": "Griechenland ",
+        "IATA": "ATH"
+    },
+    {
+        "name": "Barcelona",
+        "country": "Spanien",
+        "IATA": "BCN"
+    },
+    {
+        "name": "Bari",
+        "country": "Italien",
+        "IATA": "BRI"
+    },
+    {
+        "name": "Basel",
+        "country": "Schweiz",
+        "IATA": "BSL"
+    },
+    {
+        "name": "Belgrad",
+        "country": "Serbien",
+        "IATA": "BEG"
+    },
+    {
+        "name": "Bergen",
+        "country": "Norwegen",
+        "IATA": "BGO"
+    },
+    {
+        "name": "Berlin",
+        "country": "Deutschland ",
+        "IATA": "BER"
+    },
+    {
+        "name": "Bilbao",
+        "country": "Spanien",
+        "IATA": "BIO"
+    },
+    {
+        "name": "Billund",
+        "country": "Dänemark",
+        "IATA": "BLL"
+    },
+    {
+        "name": "Birmingham",
+        "country": "England",
+        "IATA": "BHX"
+    },
+    {
+        "name": "Bologna",
+        "country": "Italien",
+        "IATA": "BLQ"
+    },
+    {
+        "name": "Bordeaux",
+        "country": "Frankreich",
+        "IATA": "BOD"
+    },
+    {
+        "name": "Bremen",
+        "country": "Deutschland ",
+        "IATA": "BRE"
+    },
+    {
+        "name": "Breslau",
+        "country": "Polen",
+        "IATA": "WRO"
+    },
+    {
+        "name": "Brindisi",
+        "country": "Italien",
+        "IATA": "BDS"
+    },
+    {
+        "name": "Brüssel",
+        "country": "Belgien",
+        "IATA": "BRU"
+    },
+    {
+        "name": "Budapest",
+        "country": "Ungarn",
+        "IATA": "BUD"
+    },
+    {
+        "name": "Bukarest",
+        "country": "Rumänien",
+        "IATA": "OTP"
+    },
+    {
+        "name": "Cagliari",
+        "country": "Italien",
+        "IATA": "CAG"
+    },
+    {
+        "name": "Catania",
+        "country": "Italien",
+        "IATA": "CTA"
+    },
+    {
+        "name": "Danzig",
+        "country": "Polen",
+        "IATA": "GDN"
+    },
+    {
+        "name": "Debrecen",
+        "country": "Ungarn",
+        "IATA": "DEB"
+    },
+    {
+        "name": "Dublin",
+        "country": "Irland",
+        "IATA": "DUB"
+    },
+    {
+        "name": "Dubrovnik",
+        "country": "Kroatien",
+        "IATA": "DBV"
+    },
+    {
+        "name": "Faro",
+        "country": "Portugal",
+        "IATA": "FAO"
+    },
+    {
+        "name": "Florenz",
+        "country": "Italien",
+        "IATA": "FLR"
+    },
+    {
+        "name": "Friedrichshafen",
+        "country": "Deutschland ",
+        "IATA": "FDH"
+    },
+    {
+        "name": "Fuerteventura",
+        "country": "Spanien",
+        "IATA": "FUE"
+    },
+    {
+        "name": "Funchal",
+        "country": "Madeira",
+        "IATA": "FNC"
+    },
+    {
+        "name": "Genf",
+        "country": "Schweiz",
+        "IATA": "GVA"
+    },
+    {
+        "name": "Genua",
+        "country": "Italien",
+        "IATA": "GOA"
+    },
+    {
+        "name": "Glasgow",
+        "country": "England",
+        "IATA": "GLA"
+    },
+    {
+        "name": "Göteborg",
+        "country": "Schweden",
+        "IATA": "GOT"
+    },
+    {
+        "name": "Gran Canaria",
+        "country": "Spanien",
+        "IATA": "LPA"
+    },
+    {
+        "name": "Graz",
+        "country": "Österreich",
+        "IATA": "GRZ"
+    },
+    {
+        "name": "Hamburg",
+        "country": "Deutschland ",
+        "IATA": "HAM"
+    },
+    {
+        "name": "Hannover",
+        "country": "Deutschland ",
+        "IATA": "HAJ"
+    },
+    {
+        "name": "Helsinki",
+        "country": "Finnland",
+        "IATA": "HEL"
+    },
+    {
+        "name": "Ibiza",
+        "country": "Italien",
+        "IATA": "IBZ"
+    },
+    {
+        "name": "Innsbruck",
+        "country": "Österreich",
+        "IATA": "INN"
+    },
+    {
+        "name": "Istanbul",
+        "country": "Türkei",
+        "IATA": "IST"
+    },
+    {
+        "name": "Kalamata",
+        "country": "Griechenland",
+        "IATA": "KLX"
+    },
+    {
+        "name": "Katowice",
+        "country": "Polen",
+        "IATA": "KTW"
+    },
+    {
+        "name": "Köln",
+        "country": "Deutschland ",
+        "IATA": "CGN"
+    },
+    {
+        "name": "Kopenhagen",
+        "country": "Dänemark",
+        "IATA": "CPH"
+    },
+    {
+        "name": "Korfu",
+        "country": "Griechenland",
+        "IATA": "CFU"
+    },
+    {
+        "name": "Krakau",
+        "country": "Polen",
+        "IATA": "KRK"
+    },
+    {
+        "name": "La Palma ",
+        "country": "Spanien",
+        "IATA": "SPC"
+    },
+    {
+        "name": "Lanzarote",
+        "country": "Spanien",
+        "IATA": "ACE"
+    },
+    {
+        "name": "Larnaca",
+        "country": "Zypern",
+        "IATA": "LCA"
+    },
+    {
+        "name": "Lissabon",
+        "country": "Portugal",
+        "IATA": "LIS"
+    },
+    {
+        "name": "Ljubljana",
+        "country": "Slowenien",
+        "IATA": "LJU"
+    },
+    {
+        "name": "London",
+        "country": "England",
+        "IATA": "LHR"
+    },
+    {
+        "name": "London",
+        "country": "England",
+        "IATA": "LGW"
+    },
+    {
+        "name": "Luxemburg",
+        "country": "Luxemburg",
+        "IATA": "LUX"
+    },
+    {
+        "name": "Lyon",
+        "country": "Frankreich",
+        "IATA": "LYS"
+    },
+    {
+        "name": "Madrid",
+        "country": "Spanien",
+        "IATA": "MAD"
+    },
+    {
+        "name": "Mailand",
+        "country": "Italien",
+        "IATA": "MXP"
+    },
+    {
+        "name": "Mailand",
+        "country": "Italien",
+        "IATA": "LIN"
+    },
+    {
+        "name": "Malaga",
+        "country": "Spanien",
+        "IATA": "AGP"
+    },
+    {
+        "name": "Malta",
+        "country": "Malta",
+        "IATA": "MLA"
+    },
+    {
+        "name": "Manchester",
+        "country": "England",
+        "IATA": "MAN"
+    },
+    {
+        "name": "Marseille",
+        "country": "Frankreich",
+        "IATA": "MRS"
+    },
+    {
+        "name": "Nantes",
+        "country": "Frankreich",
+        "IATA": "NTE"
+    },
+    {
+        "name": "Neapel",
+        "country": "Italien",
+        "IATA": "NAP"
+    },
+    {
+        "name": "Newcastle",
+        "country": "England",
+        "IATA": "NCL"
+    },
+    {
+        "name": "Nizza",
+        "country": "Frankreich",
+        "IATA": "NCE"
+    },
+    {
+        "name": "Olbia",
+        "country": "Italien",
+        "IATA": "OLB"
+    },
+    {
+        "name": "Oslo",
+        "country": "Norwegen",
+        "IATA": "OSL"
+    },
+    {
+        "name": "Palermo",
+        "country": "Italien",
+        "IATA": "PMO"
+    },
+    {
+        "name": "Palma de Mallorca",
+        "country": "Spanien",
+        "IATA": "PMI"
+    },
+    {
+        "name": "Paris",
+        "country": "Frankreich",
+        "IATA": "CDG"
+    },
+    {
+        "name": "Paris",
+        "country": "Frankreich",
+        "IATA": "ORY"
+    },
+    {
+        "name": "Pisa",
+        "country": "Italien",
+        "IATA": "PSA"
+    },
+    {
+        "name": "Porto",
+        "country": "Portugal",
+        "IATA": "OPO"
+    },
+    {
+        "name": "Posen",
+        "country": "Polen",
+        "IATA": "POZ"
+    },
+    {
+        "name": "Prag",
+        "country": "Tschechien",
+        "IATA": "PRG"
+    },
+    {
+        "name": "Pula",
+        "country": "Kroatien",
+        "IATA": "PUY"
+    },
+    {
+        "name": "Reykjavik",
+        "country": "Island",
+        "IATA": "KEF"
+    },
+    {
+        "name": "Riga",
+        "country": "Lettland",
+        "IATA": "RIX"
+    },
+    {
+        "name": "Rom",
+        "country": "Italien",
+        "IATA": "FCO"
+    },
+    {
+        "name": "Rzeszow",
+        "country": "Polen",
+        "IATA": "RZE"
+    },
+    {
+        "name": "Salzburg",
+        "country": "Österreich",
+        "IATA": "SZG"
+    },
+    {
+        "name": "Santiago de Compostela",
+        "country": "Spanien",
+        "IATA": "SCQ"
+    },
+    {
+        "name": "Sarajevo",
+        "country": "Bosnien-Herzegowina",
+        "IATA": "SJJ"
+    },
+    {
+        "name": "Sevilla ",
+        "country": "Spanien",
+        "IATA": "SVQ"
+    },
+    {
+        "name": "Sibiu",
+        "country": "Bulgarien",
+        "IATA": "SBZ"
+    },
+    {
+        "name": "Sofia",
+        "country": "Bulgarien",
+        "IATA": "SOF"
+    },
+    {
+        "name": "Split",
+        "country": "Kroatien",
+        "IATA": "SPU"
+    },
+    {
+        "name": "Stavanger",
+        "country": "Norwegen",
+        "IATA": "SVG"
+    },
+    {
+        "name": "Stockholm",
+        "country": "Schweden",
+        "IATA": "ARN"
+    },
+    {
+        "name": "Talinn",
+        "country": "Estland",
+        "IATA": "TLL"
+    },
+    {
+        "name": "Teneriffa",
+        "country": "Spanien",
+        "IATA": "TFS"
+    },
+    {
+        "name": "Timisora",
+        "country": "Rumänien",
+        "IATA": "TSR"
+    },
+    {
+        "name": "Tirana",
+        "country": "Albanien",
+        "IATA": "TIA"
+    },
+    {
+        "name": "Toulouse",
+        "country": "Frankreich",
+        "IATA": "TLS"
+    },
+    {
+        "name": "Triest",
+        "country": "Italien",
+        "IATA": "TRS"
+    },
+    {
+        "name": "Turin",
+        "country": "Italien",
+        "IATA": "TRN"
+    },
+    {
+        "name": "Valencia",
+        "country": "Spanien",
+        "IATA": "VLC"
+    },
+    {
+        "name": "Venedig",
+        "country": "Italien",
+        "IATA": "VCE"
+    },
+    {
+        "name": "Verona",
+        "country": "Italien",
+        "IATA": "VRN"
+    },
+    {
+        "name": "Vilnius",
+        "country": "Litauen",
+        "IATA": "VNO"
+    },
+    {
+        "name": "Warschau",
+        "country": "Polen",
+        "IATA": "WAW"
+    },
+    {
+        "name": "Wien",
+        "country": "Österreich",
+        "IATA": "VIE"
+    },
+    {
+        "name": "Zadar",
+        "country": "Kroatien",
+        "IATA": "ZAD"
+    },
+    {
+        "name": "Zagreb",
+        "country": "Kroatien",
+        "IATA": "ZAG"
+    },
+    {
+        "name": "Zürich",
+        "country": "Schweiz",
+        "IATA": "ZRH"
+    }
+]

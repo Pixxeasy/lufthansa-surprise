@@ -1,0 +1,10 @@
+{
+    "pool_url": "https://www.lufthansa-surprise.com/jsonapi/pools",
+    "pool_headers": {
+        "User-Agent": "Apidog/1.0.0 (https://apidog.com)",
+        "Accept": "*/*",
+        "Host": "www.lufthansa-surprise.com",
+        "Connection": "keep-alive"
+    },
+    "flight_url": "https://www.lufthansa-surprise.com"
+}

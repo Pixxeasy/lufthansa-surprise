@@ -1,0 +1,10 @@
+[
+    {
+        "name": "Frankfurt am Main",
+        "IATA": "FRA"
+    },
+    {
+        "name": "München",
+        "IATA": "MUC"
+    }
+]
