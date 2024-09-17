@@ -405,6 +405,11 @@
         "IATA": "PUY"
     },
     {
+        "name": "Rennes",
+        "country": "Frankreich",
+        "IATA": "RNS"
+    },
+    {
         "name": "Reykjavik",
         "country": "Island",
         "IATA": "KEF"
