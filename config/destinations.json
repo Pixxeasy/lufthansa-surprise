@@ -35,6 +35,11 @@
         "IATA": "BSL"
     },
     {
+        "name": "Belfast",
+        "country": "Irland",
+        "IATA": "BHD"
+    },
+    {
         "name": "Belgrad",
         "country": "Serbien",
         "IATA": "BEG"
